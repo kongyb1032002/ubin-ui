@@ -5,7 +5,7 @@
     "angular": "1.5.8",
     "angular-ui-router": "^0.3.0",
     "underscore": "^1.8.3",
-    "angular-spinner": "^1.0.1",
+    "angular-spinner": "https://github.com/verastoyanova/bower-angular-spinner",
     "ng-dialog": "^1.4.0",
     "components-font-awesome": "^4.7.0",
     "roboto-fontface": "^0.8.0",
