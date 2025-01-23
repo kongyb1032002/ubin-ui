@@ -1,0 +1,10 @@
+services:
+   ubin-common-ui:
+      build:
+         context: .
+         dockerfile: Dockerfile
+      ports:
+         - "7001:7001"
+      environment:
+         - NODE_ENV=production
+      restart: always
